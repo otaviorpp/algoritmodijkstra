@@ -1,8 +1,8 @@
 # Algoritmo Dijkstra 
-# Projeto da faculdade (estrutura de dados) de implementação do algoritmo de dijkstra em python
+Projeto da faculdade (estrutura de dados) de implementação do algoritmo de dijkstra em python
 
 
-                        # PROBLEMA DO CAMINHO MÍNIMO #
+PROBLEMA DO CAMINHO MÍNIMO
 Uma pequena empresa transportadora envia diariamente seu caminhão para diversas
 cidades para fazer entregas. A quantidade de cidades visitadas pelo caminhão varia de
 acordo com a quantidade e destino das entregas a serem feitas. Sabendo-se
@@ -27,8 +27,8 @@ cada uma das demais cidades por onde seu caminhão poderá passar, visando uma s
 
 Instruções:
 
-# Implementar em linguagem Python o Grafo elaborado na figura 1. O
+Implementar em linguagem Python o Grafo elaborado na figura 1. O
 algoritmo deverá mostrar a distância mínima entre a cidade da empresa e cada um
 dos nós do Grafo.
-# Implementar em linguagem Python o algoritmo de Dijkstra aplicado no
+Implementar em linguagem Python o algoritmo de Dijkstra aplicado no
 Grafo planejado. 
